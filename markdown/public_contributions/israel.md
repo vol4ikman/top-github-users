@@ -11149,7 +11149,7 @@ There are `967 users`  in Israel. You need at least `23 followers` to be on this
 			</a><br/>
 			Alex Volkov
 		</td>
-		<td>Pluggable </td>
+		<td>Dooble </td>
 		<td>No Twitter Username</td>
 		<td>Israel, Germany</td>
 		<td>1</td>
